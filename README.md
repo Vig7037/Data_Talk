@@ -29,6 +29,4 @@ pip install -r requirements.txt
 - "How many records are present?" → `SELECT COUNT(*) FROM STUDENT;`
 - "List students in Data Science class." → `SELECT * FROM STUDENT WHERE CLASS='Data Science';`
 
-## License
-MIT License
 
